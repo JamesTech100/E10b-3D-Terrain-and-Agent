@@ -1,4 +1,7 @@
 # E10b-3D-Terrain-and-Agent
+
+-- The following assignment has been completed by James Ashcraft
+
 This is an exercise to explore adding 3D terrain and a simple AI agent to a scene.
 
 As usual, Fork and Clone this repository.
